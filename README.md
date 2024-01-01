@@ -1,7 +1,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryananand10&label=Profile%20views&color=0e75b6&style=flat" alt="aaryananand10" /> </p>
 - 👋 Hi, I’m @AaryanAnand10
+
 - 👀 I’m interested in ... Coding, Photography and Music 
+
 - 🌱 I’m currently learning ... C,Pyhon,ML
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 
