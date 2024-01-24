@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryananand10&label=Profile%20views&color=0e75b6&style=flat" alt="aaryananand10" /> </p>
-- 👋 Hi, I’m @AaryanAnand10
+- 👋 Hi, I’m Aaryan Anand
 
 - 👀 I’m interested in ... Coding, Photography and Music 
 
