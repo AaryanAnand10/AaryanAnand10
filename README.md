@@ -36,8 +36,10 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaryananand10" alt="aaryananand10" /></a> </p>
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AaryanAnand10&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AaryanAnand10&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AaryanAnand10&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
