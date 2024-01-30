@@ -42,11 +42,6 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AaryanAnand10&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaryananand10&show_icons=true&locale=en&layout=compact" alt="aaryananand10" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaryananand10&show_icons=true&locale=en" alt="aaryananand10" /></p>
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AaryanAnand10&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
