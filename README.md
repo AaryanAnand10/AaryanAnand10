@@ -1,4 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryananand10&label=Profile%20views&color=0e75b6&style=flat" alt="aaryananand10" /> </p>
+[![](https://visitcount.itsvg.in/api?id=AaryanAnand10&icon=0&color=11)](https://visitcount.itsvg.in)
 - 👋 Hi, I’m Aaryan Anand
 
 - 👀 I’m interested in ... Coding, Photography and Music 
