@@ -44,5 +44,3 @@ You can click the Preview link to take a look at your changes.
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AaryanAnand10&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaryananand10&" alt="aaryananand10" /></p>
