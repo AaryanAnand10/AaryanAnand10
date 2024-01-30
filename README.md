@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning ... AI training Modules,LLM and Data Analysis and Prediction 
 
 - 💞️ I’m looking to collaborate on ... On my project on prediction data 
-- 📫 How to reach me ...Check out my Link
+
 
 <!---
 AaryanAnand10/AaryanAnand10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
