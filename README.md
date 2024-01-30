@@ -45,4 +45,7 @@ You can click the Preview link to take a look at your changes.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaryananand10&show_icons=true&locale=en" alt="aaryananand10" /></p>
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=chaitanyasinghnegi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaryananand10&" alt="aaryananand10" /></p>
