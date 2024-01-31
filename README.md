@@ -1,5 +1,5 @@
 [![](https://visitcount.itsvg.in/api?id=AaryanAnand10&icon=0&color=11)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=AaryanAnand10&icon=0&color=11)](https://visitcount.itsvg.in)
+
 - 👋 Hi, I’m Aaryan Anand
 
 - 👀 I’m interested in ... Coding, Photography and Music 
