@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning ... AI training Modules, LLM, and Data Analysis and Prediction 
 
-- 💞️ I’m looking to collaborate on ... On my project on prediction data 
+- 💞️ I’m looking to collaborate on ... a Project to train and make Neural Network Models  
 
 
 <!---
