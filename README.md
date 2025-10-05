@@ -1,23 +1,20 @@
-[![](https://visitcount.itsvg.in/api?id=AaryanAnand10&icon=0&color=11)](https://visitcount.itsvg.in)
+<!-- Profile Views (replace the old visitcount.itsvg.in) -->
+![Profile views](https://komarev.com/ghpvc/?username=AaryanAnand10&label=Profile%20views&color=0e75b6&style=flat)
 
-- 👋 Hi, I’m Aaryan Anand
+<!-- Optional hero GIF (keep width reasonable for mobile) -->
+<img align="right" alt="Coding animation" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif" width="380" />
 
-- 👀 I’m interested in ... Coding, Photography and Music 
+## 👋 Hey, I’m Aaryan Anand
 
-- 🌱 I’m currently learning ... AI training Modules, LLM, and Data Analysis and Prediction 
+- **Interests:** Coding, Photography, Music  
+- **Learning:** AI training modules, LLMs, data analysis & prediction  
+- **Open to collaborate on:** Training and building neural network models
 
-- 💞️ I’m looking to collaborate on ... a Project to train and make Neural Network Models  
-
-
-<!---
-AaryanAnand10/AaryanAnand10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif?raw=true" width="500" height="320" style="border-radius:50%" />
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaryan-anand-3a837928a/) 
-
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aaryan%20Anand-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaryan-anand-3a837928a/)
+<!-- Add more if you like: Twitter, Portfolio, Email -->
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-aaryan.dev-5965F2?logo=vercel&logoColor=white)](https://your-portfolio.example) -->
+<!-- [![Email](https://img.shields.io/badge/Email-hello%40example.com-D14836?logo=gmail&logoColor=white)](mailto:hello@example.com) -->
 # 💻 Tech Stack:
 
 <h3 align="left">Languages:</h3>
