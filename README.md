@@ -39,9 +39,7 @@
 
 **Cloud:**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=000)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
-
 
 **Backend / Frameworks:**  
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
