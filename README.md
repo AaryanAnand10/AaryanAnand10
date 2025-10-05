@@ -8,13 +8,15 @@
 
 - **Interests:** Coding, Photography, Music  
 - **Learning:** AI training modules, LLMs, data analysis & prediction  
-- **Open to collaborate on:** Training and building neural network models
+- **Open to collaborate on:** Training and building neural network models  
+- **Domain focus:** Quantitative finance & data analytics — time‑series forecasting, **stochastic modeling**, Monte Carlo simulation, risk scoring, and fraud/anomaly detection.
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aaryan%20Anand-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaryan-anand-3a837928a/)
 <!-- Add more if you like: Twitter, Portfolio, Email -->
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-aaryan.dev-5965F2?logo=vercel&logoColor=white)](https://your-portfolio.example) -->
 <!-- [![Email](https://img.shields.io/badge/Email-hello%40example.com-D14836?logo=gmail&logoColor=white)](mailto:hello@example.com) -->
+
 ## 💻 Tech Stack
 
 **Languages:**  
@@ -56,6 +58,27 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
 
+## 📈 Finance & Data Analytics Focus
+- Building **finance models** for forecasting and risk insights (classical + ML).
+- **Stochastic models:** random walks, Monte Carlo simulation, and probabilistic inference.
+- **Fraud/Anomaly detection** for transactional data (imbalanced learning focus).
+- **Data analytics:** feature engineering, time‑series analysis, and dashboarding.
+
+## 📌 Featured Finance Projects
+- 🧩 Inference-learning — Core inference experiments (MLE/Bayesian ideas) used in my modeling workflow.  
+  https://github.com/AaryanAnand10/Inference-learning
+- 💹 Finance-Modeling — Financial modeling experiments (forecasting, risk analysis, backtesting).  
+  https://github.com/AaryanAnand10/Finance-Modeling
+- 🛡️ Credit Card Fraud Detection — Fraud/anomaly classification on transaction data (precision‑recall focus).  
+  https://github.com/AaryanAnand10/Credit_Card_Fraud_Detection-
+- 💰 Income-Tracker — Personal finance tracker with analytics and visualizations.  
+  https://github.com/AaryanAnand10/Income-Tracker-
+
+<!-- Optional pinned repo cards -->
+[![Inference-learning](https://github-readme-stats.vercel.app/api/pin/?username=AaryanAnand10&repo=Inference-learning&theme=tokyonight)](https://github.com/AaryanAnand10/Inference-learning)
+[![Finance-Modeling](https://github-readme-stats.vercel.app/api/pin/?username=AaryanAnand10&repo=Finance-Modeling&theme=tokyonight)](https://github.com/AaryanAnand10/Finance-Modeling)
+[![Credit Card Fraud Detection](https://github-readme-stats.vercel.app/api/pin/?username=AaryanAnand10&repo=Credit_Card_Fraud_Detection-&theme=tokyonight)](https://github.com/AaryanAnand10/Credit_Card_Fraud_Detection-)
+[![Income-Tracker](https://github-readme-stats.vercel.app/api/pin/?username=AaryanAnand10&repo=Income-Tracker-&theme=tokyonight)](https://github.com/AaryanAnand10/Income-Tracker-)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AaryanAnand10&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -67,5 +90,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AaryanAnand10&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-
